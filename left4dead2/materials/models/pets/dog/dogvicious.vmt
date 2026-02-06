@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/pets/dog/dogvicious"
-	"$bumpmap" 	"models/pets/dog/dogvicious_n"
-	"$alphatest" 1
-}
